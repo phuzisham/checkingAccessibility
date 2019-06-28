@@ -6459,7 +6459,8 @@ var {
     overflow: hidden;
     position: absolute!important;
     width: 1px;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
 }
 
 .screen-reader-text:focus {
