@@ -7327,7 +7327,7 @@ svg defs {
 }
 
 main {
-    background-color: #fff;
+    background-color: #000;
     min-height: 65vh
 }
 
@@ -11601,9 +11601,9 @@ svg .st4 {
     transition: all .3s ease-in-out
 }
 
-.theme-marketing__quote {
+/* .theme-marketing__quote {
     z-index: 999;
-}
+} */
 
 @media (min-width:50em) {
     .theme-marketing__quote {
