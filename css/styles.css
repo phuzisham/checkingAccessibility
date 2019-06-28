@@ -11602,7 +11602,7 @@ svg .st4 {
 }
 
 .theme-marketing__quote {
-    z-index: 1;
+    z-index: 999;
 }
 
 @media (min-width:50em) {
