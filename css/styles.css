@@ -6928,7 +6928,7 @@ hr {
 }
 
 .gold-bkg {
-    background-color: #87764e
+    background-color: #87764e !important;
 }
 
 .font-Rockwell,
