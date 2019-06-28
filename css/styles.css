@@ -6459,7 +6459,7 @@ var {
     overflow: hidden;
     position: absolute!important;
     width: 1px;
-    color: lightgreen;
+    color: #fff;
 }
 
 .screen-reader-text:focus {
