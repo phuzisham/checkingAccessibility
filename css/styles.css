@@ -6896,7 +6896,7 @@ hr {
 }
 
 .blue-bkg {
-    background-color: #004282
+    background-color: #004282 !important;
 }
 
 .blue-dark {
