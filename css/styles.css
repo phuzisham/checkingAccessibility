@@ -11710,13 +11710,13 @@ svg.my-story {
   color: #fff;
 } */
 
-.themed-marketing__quote.blue-bkg span {
-  background-color: #004282;
+.themed-marketing__blockquote.blue-bkg span {
+  background-color: #004282 !important;
   color: #fff;
 }
 
 .themed-marketing__blockquote.gold-bkg span {
-  background-color: #87764e;
+  background-color: #87764e !important;
   color: #fff;
 }
 
