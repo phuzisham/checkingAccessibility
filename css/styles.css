@@ -11710,12 +11710,12 @@ svg.my-story {
   color: #fff;
 }
 
-.themed-marketing__blockquote.gold-bkg span blockquote {
+/* .themed-marketing__blockquote.gold-bkg span blockquote {
   background-color: #87764e;
   color: #fff;
-}
+} */
 
-/* .themed-marketing__quote.blue-bkg span {
+.themed-marketing__quote.blue-bkg span {
   background-color: #004282;
   color: #fff;
 }
@@ -11729,7 +11729,7 @@ svg.my-story {
 .themed-marketing__blockquote.gold-bkg span {
   background-color: #87764e;
   color: #fff;
-} */
+}
 
 @media (min-width:40em) {
     .themed-marketing__blockquote {
