@@ -11703,17 +11703,41 @@ svg.my-story {
     text-align: center;
     padding-bottom: 1.875rem;
     position: relative;
+    background-color: #004282;
 }
 
-.themed-marketing__blockquote.blue-bkg span blockquote {
+.themed-marketing__blockquote span {
   background-color: #004282;
   color: #fff;
 }
 
-/* .themed-marketing__blockquote.gold-bkg span blockquote {
+.themed-marketing__quote.blue-bkg span {
+  background-color: #004282 !important;
+  color: #fff;
+}
+
+.blue-bkg .themed-marketing__blockquote {
+  background-color: #004282 !important;
+}
+
+.themed-marketing__quote.gold-bkg span {
+  background-color: #87764e !important;
+  color: #fff;
+}
+
+.gold-bkg .themed-marketing__blockquote {
+  background-color: #87764e !important;
+}
+
+/* .themed-marketing__blockquote.blue-bkg span blockquote {
+  background-color: #004282;
+  color: #fff;
+}
+
+.themed-marketing__blockquote.gold-bkg span blockquote {
   background-color: #87764e;
   color: #fff;
-} */
+}
 
 .themed-marketing__quote.blue-bkg span {
   background-color: #004282;
@@ -11729,7 +11753,7 @@ svg.my-story {
 .themed-marketing__blockquote.gold-bkg span {
   background-color: #87764e;
   color: #fff;
-}
+} */
 
 @media (min-width:40em) {
     .themed-marketing__blockquote {
