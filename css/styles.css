@@ -6698,7 +6698,7 @@ var {
 
 .entry-content .blue-bkg,
 .textwidget .blue-bkg {
-    background-color: #004282 !important;
+    background-color: #004282
 }
 
 .entry-content .blue-dark,
@@ -6743,7 +6743,7 @@ var {
 
 .entry-content .gold-bkg,
 .textwidget .gold-bkg {
-    background-color: #87764e !important;
+    background-color: #87764e
 }
 
 .entry-content .font-Rockwell,
@@ -6896,7 +6896,7 @@ hr {
 }
 
 .blue-bkg {
-    background-color: #004282 !important;
+    background-color: #004282
 }
 
 .blue-dark {
@@ -6928,7 +6928,7 @@ hr {
 }
 
 .gold-bkg {
-    background-color: #87764e !important;
+    background-color: #87764e
 }
 
 .font-Rockwell,
@@ -11601,10 +11601,6 @@ svg .st4 {
     transition: all .3s ease-in-out
 }
 
-/* .theme-marketing__quote {
-    z-index: 999;
-} */
-
 @media (min-width:50em) {
     .theme-marketing__quote {
         height: 15.625rem
@@ -11706,54 +11702,23 @@ svg.my-story {
     background-color: #004282;
 }
 
-/* .themed-marketing__blockquote span {
-  background-color: #004282;
-  color: #fff;
-} */
-
 .themed-marketing__quote.blue-bkg span {
-  background-color: #004282 !important;
-  color: #fff;
+    background-color: #004282 !important;
+    color: #fff;
 }
 
 .blue-bkg .themed-marketing__blockquote {
-  background-color: #004282 !important;
+    background-color: #004282 !important;
 }
 
 .themed-marketing__quote.gold-bkg span {
-  background-color: #87764e !important;
-  color: #fff;
+    background-color: #87764e !important;
+    color: #fff;
 }
 
 .gold-bkg .themed-marketing__blockquote {
-  background-color: #87764e !important;
+    background-color: #87764e !important;
 }
-
-/* .themed-marketing__blockquote.blue-bkg span blockquote {
-  background-color: #004282;
-  color: #fff;
-}
-
-.themed-marketing__blockquote.gold-bkg span blockquote {
-  background-color: #87764e;
-  color: #fff;
-}
-
-.themed-marketing__quote.blue-bkg span {
-  background-color: #004282;
-  color: #fff;
-}
-
-.themed-marketing__blockquote.gold-bkg span {
-  background-color: #87764e;
-  color: #fff;
-}
-
-.themed-marketing__quote.gold-bkg span,
-.themed-marketing__blockquote.gold-bkg span {
-  background-color: #87764e;
-  color: #fff;
-} */
 
 @media (min-width:40em) {
     .themed-marketing__blockquote {
@@ -11778,7 +11743,7 @@ svg.my-story {
 .themed-marketing__blockquote--name,
 .themed-marketing__blockquote--school {
     color: #e1d7c1;
-    display: block;
+    display: block
 }
 
 .themed-marketing__blockquote--name {
