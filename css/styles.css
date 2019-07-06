@@ -15715,7 +15715,6 @@ textarea:not([disabled]):focus {
 }
 
 .hero-inline-image__content .hero-inline-image__title h1 {
-    background: -webkit-gradient(linear, left top, right top, from(hsla(0, 0%, 100%, 0)), color-stop(25%, rgba(1, 37, 78, .52)), color-stop(33%, rgba(1, 37, 78, .69)), to(#01254e));
-    background: linear-gradient(90deg, hsla(0, 0%, 100%, 0) 0, rgba(1, 37, 78, .52) 25%, rgba(1, 37, 78, .69) 33%, #01254e);
+    background: #000;
     font: white !important;
 }
