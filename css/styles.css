@@ -15715,6 +15715,5 @@ textarea:not([disabled]):focus {
 }
 
 .hero-inline-image__content .hero-inline-image__title h1 {
-    background: #000;
-    font: white !important;
+    background: #fff;
 }
