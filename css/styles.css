@@ -15713,3 +15713,7 @@ textarea:not([disabled]):focus {
 .widget_custom_html {
     margin-top: 30px
 }
+
+.hero-inline-image__content .hero-inline-image__title h1 {
+    background: #fff;
+}
