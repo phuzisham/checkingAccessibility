@@ -15719,5 +15719,6 @@ textarea:not([disabled]):focus {
 }
 
 .simple-news__item h5 {
-    background-color: rgba(1, 37, 78, .7);
+    background-color: rgba(1, 37, 78, .7) !important;
+    background: rgba(1, 37, 78, .7) !important;
 }
