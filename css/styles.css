@@ -13808,7 +13808,7 @@ li.orbit-slide {
 }
 
 .simple-news__item-title {
-    background-color: rgba(1, 37, 78, .7);
+    background-color: rgba(1, 37, 78, .7) !important;
     color: #fff;
     font-family: Avenir W01, sans-serif;
     margin-bottom: 0;
