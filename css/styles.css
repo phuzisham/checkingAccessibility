@@ -15718,7 +15718,7 @@ textarea:not([disabled]):focus {
     background: #fff;
 }
 
-.simple-news__item h5 {
+.simple-news__item.curated h5.simple-news__item-title {
     background-color: rgba(1, 37, 78, .7) !important;
     background: rgba(1, 37, 78, .7) !important;
 }
