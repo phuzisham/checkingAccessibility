@@ -15720,10 +15720,10 @@ textarea:not([disabled]):focus {
 
 .simple-news__item.curated h5.simple-news__item-title {
     background-color: rgba(1, 37, 78, .7) !important;
-    background: rgba(1, 37, 78, .7) !important;
+    /* background: rgba(1, 37, 78, .7) !important; */
 }
 
-.simple-news__curated .simple-news__inner-content.l-constrain .simple-news__item.curated h5.simple-news__item-title {
+/* .simple-news__curated .simple-news__inner-content.l-constrain .simple-news__item.curated h5.simple-news__item-title {
     background-color: rgba(1, 37, 78, .7) !important;
     background: rgba(1, 37, 78, .7) !important;
-}
+} */
