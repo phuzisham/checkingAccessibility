@@ -13815,7 +13815,7 @@ li.orbit-slide {
     width: 100%;
     position: absolute;
     text-transform: uppercase;
-    z-index: 0;
+    z-index: 9999;
     bottom: 0;
     padding: .625rem
 }
