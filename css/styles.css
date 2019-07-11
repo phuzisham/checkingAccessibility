@@ -15717,3 +15717,7 @@ textarea:not([disabled]):focus {
 .hero-inline-image__content .hero-inline-image__title h1 {
     background: #fff;
 }
+
+.simple-news__item h5 {
+    background-color: rgba(1, 37, 78, .7);
+}
