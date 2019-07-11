@@ -15722,3 +15722,8 @@ textarea:not([disabled]):focus {
     background-color: rgba(1, 37, 78, .7) !important;
     background: rgba(1, 37, 78, .7) !important;
 }
+
+.simple-news__curated .simple-news__inner-content .simple-news__item h5 {
+    background-color: rgba(1, 37, 78, .7) !important;
+    background: rgba(1, 37, 78, .7) !important;
+}
