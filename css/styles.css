@@ -12218,6 +12218,11 @@ input.find-your-degree__search {
     }
 }
 
+p.modal--top-bar {
+    background-color: #01254e;
+    color: #fff;
+}
+
 .degree-detail--college,
 .modal--top-bar {
     background-color: #01254e;
